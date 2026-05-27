@@ -9,8 +9,3 @@ It also has a website! [Funkin' MINECRAFT on GitHub Pages](https://go-miles.gith
 
 You can read about the game, see the latest updates, gloss over recent commits, and play nightly builds thanks to GitHub's CI services.
 ___
-
-## OUTA-RANGE
- <img align="left" src="https://repository-images.githubusercontent.com/965294960/988b1aee-62c2-4820-9ab3-999edfc06ff8" width="40%">
- 
-___
